@@ -1,0 +1,15 @@
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\bin\Debug\net6.0\sem_1_main.exe
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\bin\Debug\net6.0\sem_1_main.deps.json
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\bin\Debug\net6.0\sem_1_main.runtimeconfig.json
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\bin\Debug\net6.0\sem_1_main.dll
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\bin\Debug\net6.0\sem_1_main.pdb
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\sem_1_main.csproj.AssemblyReference.cache
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\sem_1_main.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\sem_1_main.AssemblyInfoInputs.cache
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\sem_1_main.AssemblyInfo.cs
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\sem_1_main.csproj.CoreCompileInputs.cache
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\sem_1_main.dll
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\refint\sem_1_main.dll
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\sem_1_main.pdb
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\sem_1_main.genruntimeconfig.cache
+C:\C_Sharp_classes\Class_1\seminar_1\sem_1_main\obj\Debug\net6.0\ref\sem_1_main.dll
